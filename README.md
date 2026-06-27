@@ -1,4 +1,4 @@
-### Imitation of Life is better than no life at all... 👋
+### Imitation of Life is better than no life at all... 
 
 <!--
 **katnino/katnino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
